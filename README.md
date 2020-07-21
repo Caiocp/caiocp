@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👋 hello, i'm Caio Carvalho!
 
-<!--
-**Caiocp/caiocp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Always learning something out there
 
-Here are some ideas to get you started:
+Computer science student, front end engineer  in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Learning about
+
+Javascript stack: Node, ReactJS and React Native.
+
+### 💪 Defying myself
+
+Always looking for the best development ecosystem and accepting new challenges.
+
+### 🤵🏼  Socials
+
+[![Linkedin Badge](https://img.shields.io/badge/-CaioCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiocp/)](https://www.linkedin.com/in/caiocp/)
+[![Twitter Badge](https://img.shields.io/badge/-caiocp7-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/caiocp7)](https://twitter.com/caiocp7)
+[![Instagram Badge](https://img.shields.io/badge/-CaioCarvalho-c32aa3?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/caio_cp7/)](https://www.instagram.com/caio_cp7/)
+
+🖖🏼 Have fun and play games! Peace out.
